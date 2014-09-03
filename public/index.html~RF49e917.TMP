@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="ltr">
+	<head>
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" ><![endif]-->
+		<meta charset="utf-8" />
+		<!-- minimal-ui attribute is for iOS7.2 if we notice with eyebrow bars remove -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, minimal-ui" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- Global Styles -->
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="/css/combined/all.css">
+		<title>Hyatt</title>
+	</head>
+	<body>
+        <header>	
+        	<div class="col1"><a href="#">logo</a></div>
+        	<div class="col2">
+        		<img src="http://placehold.it/67x75">
+        		<div class="loc">
+	        		<h1>Chicago River North</h1>
+	        		<ul>
+	        			<li>Lorem ipsum dolor sit amet<span>|</span></li>
+	        			<li>Lorem ipsum dolor sit amet<span>|</span></li>
+	        			<li>TEL +1 312 755 1600</li>
+	        		</ul>
+        		</div>
+        		
+        	</div>
+        	<div class="col3">
+        		<div class="top">1</div>
+        		<div class="bottom">2</div>
+        	</div>
+ 		</header>
+       	<main>
+       		<section class="select">
+       			<div class="col1">
+       				<div class="styled-select">
+       					<select>
+	       					<option>Lorem ipsum dolor</option>
+	       					<option>Lorem ipsum</option>
+	       					<option>Lorem</option>
+	       					<option>Lorem</option>
+       					</select>
+       				</div>       				
+
+       				<div class="styled-select">
+       					<select>
+	       					<option>1</option>
+	       					<option>2</option>
+	       					<option>3</option>
+	       					<option>4</option>
+       					</select>
+       				</div>
+
+       				<div class="styled-select">
+       					<select>
+	       					<option>1</option>
+	       					<option>2</option>
+	       					<option>3</option>
+	       					<option>4</option>
+       					</select>
+       				</div>
+
+       				<div class="styled-select">
+       					<select>
+	       					<option>1</option>
+	       					<option>2</option>
+	       					<option>3</option>
+	       					<option>4</option>
+       					</select>
+       				</div>
+
+       			</div>
+       			<div class="col2">2</div>
+       		</section>
+	        <section class="main">
+	        	main
+	        </section>	
+	        <section class="right">
+	        	<div class="top">1</div>
+	        	<div class="bottom">2</div>	        	
+	        </section>	        
+		</main>
+		<footer>
+			<div class="col1">
+				<img src="http://placehold.it/350x245">
+			</div>
+			<div class="col2">
+				<img src="http://placehold.it/350x245">
+			</div>
+			<div class="col3">
+				<img src="http://placehold.it/350x245">
+			</div>
+			<div class="col4">
+				<img src="http://placehold.it/350x245">
+			</div>	
+		</footer>
+   
+		<script type="text/javascript" src="/js/lib/concat/all.js"></script>
+		<script type="text/javascript" src="/js/src/max/hy.js"></script>
+	</body>
+</html>

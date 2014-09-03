@@ -1,0 +1,30 @@
+
+/* Clear Fix */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 1170px;
+	@include clearfix;
+}
+
+.inner {
+	float: left;
+	width: 100%;
+}
